@@ -1,0 +1,6 @@
+## Interface: 11302
+## Author: fouronnes / marcobax
+## Title: DingShot (based on DingPics)
+## Notes: Automatically save a screenshot with the time played when you level-up
+
+DingShot.lua
